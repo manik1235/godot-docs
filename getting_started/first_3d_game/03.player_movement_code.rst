@@ -361,7 +361,7 @@ tab at the top of the editor to do so.
 If you closed the scene before, head to the *FileSystem* dock and double-click
 ``main.tscn`` to re-open it.
 
-To instantiate the ``Player``, right-click on the ``Main`` node and select *Instance
+To instantiate the ``Player``, right-click on the ``Main`` node and select *Instantiate
 Child Scene*.
 
 |image2|
